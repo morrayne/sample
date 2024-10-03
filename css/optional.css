@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "garet";
+    src: url("../res/fonts/Garet.ttf") 
+    format("truetype");
+}
+@font-face{
+    font-family: "psans";
+    src: url("../res/fonts/PublicSans.ttf")
+    format("truetype");
+}
+div, span{
+    display: flex;
+    font-size: 14px;
+    font-family: "garet";
+}
+/* body{
+    width: 200vw;
+}
+.container{
+    width: 50%;
+} */
